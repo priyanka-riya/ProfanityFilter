@@ -11,4 +11,4 @@ Webpage Deployment: Future enhancement for broader accessibility.
 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Nithyasriperiasamy/ProfanityFilter.git
+   git clone https://github.com/priyanka-riya/ProfanityFilter.git
